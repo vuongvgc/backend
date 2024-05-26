@@ -18,6 +18,7 @@
 
 **Công việc**:
 - [ ] Tạo REST API với các phương thức GET, POST, PUT, DELETE để quản lý một danh sách đơn giản (ví dụ: danh sách người dùng).
+- [ ] Lưu và đọc dữ liệu từ file
 - [ ] Sử dụng Postman để kiểm tra API.
 
 **Tài liệu tham khảo**:
